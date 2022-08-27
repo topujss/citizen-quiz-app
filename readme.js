@@ -7,8 +7,7 @@ const start_btn = document.querySelector('.start_btn button'),
   option_list = document.querySelector('.option_list'),
   timeCount = quiz_box.querySelector('.timer .timer_sec'),
   time_line = quiz_box.querySelector(' .time_line');
-
-console.log(timeCount);
+  
 /**
  * events
  */
